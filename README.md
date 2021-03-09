@@ -1,4 +1,4 @@
-# n_degree_polynomial_of_best_fit
+# n-degree_polynomial_of_best_fit
 
 | Software  | Package Requirements |
 | ------------- | ------------- |
