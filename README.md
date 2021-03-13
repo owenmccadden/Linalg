@@ -1,9 +1,19 @@
-# n-degree_polynomial_of_best_fit
+# Linear Algebra
 
 | Software  | Package Requirements |
 | ------------- | ------------- |
-| Python  | numpy|
+| Python  | NumPy|
 
-The Least_Squares.ipynb file contains python classes to represent Points and DataSets. The DataSet class contains a method to generate the n-degree polynomial of best fit for a given set of points using least squares. This function is useful for solving linear algebra problems and generating polynomials that precisely fit a particular dataset.
+This repo contains a few different Python scripts to help automate some different operations, computations, and algorithms for vectors, matrices and other linear algebra concepts.
 
-The Least_Squares.ipynb file contains all the classes needed. The file also contains some example use cases, including example one in 4.3 of Gilbert Strang's Introduction to Linear Algebra Textbook.
+## Least_Squares
+
+This file contains some classes and methods that can be used to generate an n-degree polynomial of best fit for a set of points.
+
+## Gram-Schmidt
+
+This file contains some functions to automate the Gram-Schmidt process using NumPy.
+
+## Vector_Ops
+
+This file contains some code to compute vector operations that are not built-in to NumPy such as getting vector length, unit-vectors, and vector projections.
