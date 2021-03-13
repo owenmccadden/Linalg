@@ -1,10 +1,10 @@
-# Linear Algebra
+# LinAlg
 
 | Software  | Package Requirements |
 | ------------- | ------------- |
 | Python  | NumPy|
 
-This repo contains a few different Python scripts to help automate some different operations, computations, and algorithms for vectors, matrices and other linear algebra concepts.
+This repo contains a few different Jupyter Notebook files to help automate some different operations, computations, and algorithms for vectors, matrices and other linear algebra concepts.
 
 ## Least_Squares
 
